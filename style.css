@@ -77,7 +77,7 @@ a:link {
 }
 
 .downloadbutton {
-    border: solid 1px #333;
+    border: none;
     background-color: #2a97fd;
     color: #fff;
     border-radius: 15px;
